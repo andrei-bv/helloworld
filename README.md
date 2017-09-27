@@ -8,6 +8,7 @@ This changes where made on test branch
 
 This changes are made localy
 
+And this on master
 Yet another change localy
 
 3.57 - localy
